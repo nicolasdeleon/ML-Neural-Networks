@@ -7,6 +7,6 @@ Dentro del repositorio encontramos:
 - Ejemplo didáctico de Bayes en la clasificación de SPAM y HAM.
 - Implementación de un clasificador de Bayes multinomial para 20 categorías de artículos periodísticos con NLP, busqueda de hiperparámetros con cross-validation y caching.
 - Clasificador de Bayes Gausseano para FASHION-MNIST de 10 categorías con una explicación de los fundamentos y un análisis de resultados sobre un procesamiento de las imagenes.
-- Implementación de una red convolucional en el dataset de en 100-MNIST a color.
+- Implementación de una red convolucional en el dataset de en Cifar 100 (en progreso).
 
 Algunos de estos trabajos siguen en progreso intentando mejorar su clasificación mientras que otros son meramente demostrativos para adquirir conceptos y conocimiento básico.
